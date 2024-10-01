@@ -1,0 +1,14 @@
+{
+  "name": "com.ezygamer.draganddropcore",
+  "version": "1.0.0",
+  "displayName": "com.ezygamer.draganddropcore",
+  "description": "This package provides the core logic for implementing drag-and-drop functionality in Unity.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+
+  "author": {
+    "name": "Satyam"
+
+
+  }
+}
